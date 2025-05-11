@@ -64,15 +64,15 @@ Introduce power-ups and multiple asteroid types
 Main menu and game over screen
 
 📸 Screenshots
-1. GamePlay
+
 ![image](https://github.com/user-attachments/assets/a041cf88-9d6c-480a-94c7-aa6067ee8fd5)
-2.GameOver Screen
+
 ![image](https://github.com/user-attachments/assets/c6623b30-43b5-46f2-99af-0c1f81871e7f)
-3.High Score
+
 ![image](https://github.com/user-attachments/assets/b26dd946-5c18-4200-bb2f-a0b5503c5fc3)
 
 
 👨‍💻 Author
 Shahzad Hussain
-📫 [Contact Me] (optional)
+📫 [Contact Me] (shazadhussain74303@gmail.com)
 
