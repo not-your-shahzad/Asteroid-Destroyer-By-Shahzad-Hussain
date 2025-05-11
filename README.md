@@ -15,13 +15,13 @@ Asteroid Destroyer is a fast-paced, 2D arcade shooter developed in **C++ using t
 ## 📂 Project Structure
 
 Asteroid-Destroyer/
-├── Asteroid.h / Asteroid.cpp # Asteroid class: movement, rendering, off-screen check
-├── Bullet.h / Bullet.cpp # Bullet class: firing, movement, off-screen logic
-├── Game.h / Game.cpp # Main game engine: game loop, input, updates, rendering
-├── main.cpp # Program entry point
-├── player.png # Player ship texture
-├── asteroid.png # Asteroid texture
-├── bullet.png # Bullet texture
+- ├── Asteroid.h / Asteroid.cpp # Asteroid class: movement, rendering, off-screen check
+- ├── Bullet.h / Bullet.cpp # Bullet class: firing, movement, off-screen logic
+- ├── Game.h / Game.cpp # Main game engine: game loop, input, updates, rendering
+- ├── main.cpp # Program entry point
+- ├── player.png # Player ship texture
+- ├── asteroid.png # Asteroid texture
+- ├── bullet.png # Bullet texture
 
 ## 🛠️ Getting Started
 
@@ -52,16 +52,16 @@ g++ main.cpp Game.cpp Asteroid.cpp Bullet.cpp -o AsteroidDestroyer -lsfml-graphi
 
 🧠 Code Highlights
 
-Uses OOP design patterns with classes for Bullet, Asteroid, and Game.
-Efficient memory handling with std::vector and erase-remove idiom.
-Time-based movement using sf::Clock and sf::Time.
+- Uses OOP design patterns with classes for Bullet, Asteroid, and Game.
+- Efficient memory handling with std::vector and erase-remove idiom.
+- Time-based movement using sf::Clock and sf::Time.
 
 💡 Future Improvements
 
-Add scoring and lives
-Implement sound effects and music
-Introduce power-ups and multiple asteroid types
-Main menu and game over screen
+- Add scoring and lives
+- Implement sound effects and music
+- Introduce power-ups and multiple asteroid types
+- Main menu and game over screen
 
 📸 Screenshots
 
